@@ -1,0 +1,26 @@
+{
+	"id": "companion-module-firstroboticscompetition-fms",
+	"name": "FIRST Robotics Competition - Field Management System",
+	"shortname": "FMS",
+	"description": "A Video Switcher for the FIRST Robotics Competition Field Management System",
+	"version": "0.1.0",
+	"license": "MIT",
+	"repository": "git+https://github.com/ofekashery/companion-module-firstroboticscompetition-fms.git",
+	"bugs": "https://github.com/ofekashery/companion-module-firstroboticscompetition-fms/issues",
+	"maintainers": [
+		{
+			"name": "Ofek Ashery",
+			"email": "ofek@firstisrael.org.il"
+		}
+	],
+	"runtime": {
+		"type": "node22",
+		"api": "nodejs-ipc",
+		"apiVersion": "0.0.0",
+		"entrypoint": "../dist/main.js"
+	},
+	"legacyIds": [],
+	"manufacturer": "FIRST Robotics Competition",
+	"products": ["Field Management System"],
+	"keywords": []
+}
