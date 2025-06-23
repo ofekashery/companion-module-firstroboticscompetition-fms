@@ -1,5 +1,5 @@
 {
-	"id": "companion-module-firstroboticscompetition-fms",
+	"id": "firstroboticscompetition-fms",
 	"name": "FIRST Robotics Competition - Field Management System",
 	"shortname": "FMS",
 	"description": "A Video Switcher for the FIRST Robotics Competition Field Management System",
